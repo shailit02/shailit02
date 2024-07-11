@@ -1,6 +1,8 @@
  [![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*aniyNTcHORbvDiLGUzJSsQ.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shailit</h1>
 <h3 align="center">I am a passionate programming enthusiast from India</h3>
+<img alt="coding" align="right"  
+ width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shailit02&label=Profile%20views&color=0e75b6&style=flat" alt="shailit02" /> </p>
@@ -16,7 +18,7 @@
 - ⚡ Fun fact **Curious to explore and learn**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/shailitsharma02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shailitsharma02" height="30" width="40" /></a>
 <a href="https://instagram.com/shailitsharma02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shailitsharma02" height="30" width="40" /></a>
 </p>
