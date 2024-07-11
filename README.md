@@ -1,7 +1,6 @@
  [![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*aniyNTcHORbvDiLGUzJSsQ.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shailit</h1>
 <h3 align="center">I am a passionate programming enthusiast from India</h3>
-<img align=“right” alt=“coding” width=“400” src=“https://miro.medium.com/v2/resize:fit:679/1*Wqsjmur4YbYp8-rBNNa_dA.gif”>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shailit02&label=Profile%20views&color=0e75b6&style=flat" alt="shailit02" /> </p>
